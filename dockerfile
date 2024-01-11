@@ -4,4 +4,4 @@ WORKDIR /app
 
 COPY ./bin/Debug/net8.0/ .
 
-CMD ["dotnet", "git.docker.dll"]
+CMD ["dotnet", "git.docker.cs.dll"]
